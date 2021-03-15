@@ -1,4 +1,13 @@
+body{
+    background-color: darkgrey;
+}
 #div01{
-    border: 2px;
-    border-color: darkslateblue;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+#div02{
+    border: 2px solid blueviolet;
+    margin: 5px;
+    padding: 5px;
 }
